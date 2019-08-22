@@ -18,6 +18,9 @@ pom.xml.asc
 .nrepl-port
 .cpcache/
 
+### ClojureScript ###
+.shadow-cljs
+
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
